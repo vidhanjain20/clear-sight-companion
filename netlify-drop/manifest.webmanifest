@@ -1,0 +1,14 @@
+{
+  "name": "Clear Sight Companion",
+  "short_name": "Clear Sight",
+  "description": "Your personal eye health assistant. Concept prototype, not an NHS service.",
+  "start_url": "./#home",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F1F5FA",
+  "theme_color": "#E8F0FA",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
